@@ -4,4 +4,4 @@ car:
   price: 50000$
   
 server: 
-  porn: 8081
+  port: 8081
